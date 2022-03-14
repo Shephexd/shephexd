@@ -10,12 +10,12 @@
   <br>  
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp   
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label="/></a>&nbsp   
+  <img src="https://img.shields.io/badge/MariaDB-color=003545?style=flat-square&logo=MariaDB&logoColor=FFFFFF&label="/></a>&nbsp   
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp   
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=008CC1&logo=Neo4j&logoColor=FFFFFF&label="/></a>&nbsp   
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=FFFFFF&label="/></a>&nbsp   
   <br>
   <img src="https://img.shields.io/badge/docker-319dfa?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=FFFFFF"/></a>&nbsp   
 </p>
 
 ## Stats
